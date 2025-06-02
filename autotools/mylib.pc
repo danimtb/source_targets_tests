@@ -1,0 +1,8 @@
+prefix=C:/Users/danielm/source_targets_tests/meson/mylib
+includedir=C:/Users/danielm/source_targets_tests/meson/mylib
+sources=C:/Users/danielm/source_targets_tests/meson/mylib/mylib.cpp
+
+Name: mylib
+Description: Source-only example lib
+Version: 1.0.0
+Cflags: -I"${includedir}"
