@@ -1,5 +1,4 @@
-
-For PkgConfigDeps:
+Build steps for PkgConfigDeps:
 
 ```bash
 export PKG_CONFIG_PATH=/home/danimtb/source_targets_tests/autotools
@@ -8,6 +7,8 @@ autoreconf -fi
 ./configure
 make
 ```
+
+Possible implementations:
 
 For MakeDeps:
 

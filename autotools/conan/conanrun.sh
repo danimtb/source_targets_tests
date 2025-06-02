@@ -1,1 +1,0 @@
-. "/home/danimtb/source_targets_tests/autotools/conan/conanrunenv-release-x86_64.sh"
