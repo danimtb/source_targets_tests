@@ -22,3 +22,9 @@ msbuild/.vs/*
 *traces.*
 meson/build/meson-src/*
 *.vcxproj*
+*.guess
+*.sub
+*.m4
+**/**/missing
+**/**/depcomp
+**/**/install-sh

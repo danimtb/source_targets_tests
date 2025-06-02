@@ -16,7 +16,7 @@ t_conandeps["release_x86_64"]["mylib"]["cflags"] = {}
 t_conandeps["release_x86_64"]["mylib"]["sharedlinkflags"] = {}
 t_conandeps["release_x86_64"]["mylib"]["exelinkflags"] = {}
 t_conandeps["release_x86_64"]["mylib"]["frameworks"] = {}
-t_conandeps["release_x86_64"]["mylib"]["sources"] = {"mylib.h", "mylib.cpp"}
+t_conandeps["release_x86_64"]["mylib"]["sources"] = {"mylib.h", "mylib.cpp"}  -- ADDED: is mylib.h neeed here?
 
 if conandeps == nil then conandeps = {} end
 conan_premake_tmerge(conandeps, t_conandeps)

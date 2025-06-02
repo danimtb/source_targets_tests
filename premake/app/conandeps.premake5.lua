@@ -15,7 +15,7 @@ function conan_setup_build(conf, pkg)
         includedirs(conandeps[conf][pkg]["includedirs"])
         bindirs(conandeps[conf][pkg]["bindirs"])
         defines(conandeps[conf][pkg]["defines"])
-        files(conandeps[conf][pkg]["sources"])
+        files(conandeps[conf][pkg]["sources"])  -- ADDED
 
     end
 end

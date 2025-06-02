@@ -1,0 +1,1 @@
+. "/home/danimtb/source_targets_tests/autotools/conan/conanautotoolsdeps.sh" && . "/home/danimtb/source_targets_tests/autotools/conan/conanbuildenv-release-x86_64.sh"
