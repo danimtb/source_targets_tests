@@ -20,5 +20,5 @@ msbuild/.vs/*
 *.vsidx
 *output.*
 *traces.*
-meson/build/*
+meson/build/meson-src/*
 *.vcxproj*
